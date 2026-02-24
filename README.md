@@ -19,6 +19,7 @@
 ## Current Projects
 
 - **[Uniswap/ai-toolkit](https://github.com/Uniswap/ai-toolkit)** - Standardized AI-powered development workflows for Claude Code
+- **[Uniswap/uniswap-ai](https://github.com/Uniswap/uniswap-ai)** - AI tools for building on Uniswap — skills, plugins, and agents for any coding agent
 
 ## 📊 GitHub Activity
 

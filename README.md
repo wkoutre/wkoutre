@@ -14,7 +14,7 @@
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
 
-> **AI-addicted engineer** building at the intersection of AI and product. Currently crafting tools that make developers and professionals more productive.
+> **AI-pilled engineer** building at the intersection of AI and product. Currently crafting tools that make developers and professionals more productive.
 
 ## Current Projects
 
